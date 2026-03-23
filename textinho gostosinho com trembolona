@@ -1,0 +1,36 @@
+animais
+atendimentos
+veterinarios
+parceiros
+procedimentos
+tutores
+
+segundo passo
+
+Defina os membros apropriados.
+Quais são as Propriedades (dados) e os
+Métodos (operações) fundamentais para
+iniciar a construção deste software?
+Descreva quais as propriedades
+necessárias para sua proposta pensando
+nas seguintes entidades:
+• ANIMAL, VETERINARIO, ATENDIMENTO, CLÍNICA
+
+
+animal: nome/id, id/tutor, peso, raça idade, pelagem, alergias/função de intermédio (tutor animal), observações
+
+veterinário: nome, idade, sexo, especialização, telefone
+
+atendimento: id, id do animal, horário entrada/saída , valor, , profissional atendente (quem atendeu)função de intermédiao (atendimento e procedimento)
+
+parceiros: clinicas que atendem em conjunto, veterinaros terceirizados
+
+procedimento: id tipo(descrição) , data, horário, veterinário atendente, gastos com equipamentos, gravidades, função de intermédiao (atendimento e procedimento)
+
+
+tutor: id, nome, idade, gênero, telefone, histórico de atendimentos e gastos
+
+
+ 
+
+ 
