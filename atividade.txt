@@ -1,0 +1,24 @@
+                                                  ficha media 
+
+nro paciente                nome 
+dt nascimento               convenio        sexo 
+estado civil                rg              cpf 
+emprego                     telefone
+
+
+         consulta
+nro consulta              data       diagnostico 
+
+
+               
+               exames
+nro consulta       exame        data   obs 
+
+
+
+
+
+precisa 
+diagrama entidade relacionamento 
+script do bd
+script dos dados
